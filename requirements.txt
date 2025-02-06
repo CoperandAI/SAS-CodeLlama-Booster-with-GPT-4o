@@ -1,0 +1,5 @@
+transformers==4.31.0
+datasets==2.13.0
+openai==0.27.0
+evaluate==0.4.0
+peft==0.4.0
